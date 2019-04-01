@@ -1,3 +1,2 @@
 # WheelsiOSCodingChallenge
-wheels coding challenge
-Do a pod install :) 
+Do a 'pod install'
