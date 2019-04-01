@@ -1,0 +1,6 @@
+module Pods_WheelsiOSCodingChallenge {
+  umbrella header "Pods-WheelsiOSCodingChallenge-umbrella.h"
+
+  export *
+  module * { export * }
+}
